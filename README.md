@@ -7,6 +7,20 @@ Manera simplificada de documentar los requisitos y funcionalidades deseadas del 
 * Se expresan sin tecnicismos
 * Breves, simples y fáciles de entender
 
+### Ejemplos historias de usuarios
+
+````
+Yo como un [Rol], necesito [Descripción de la funcionalidad], con la finalidad de [Descripción de la consecuencia]
+
+Yo como un usuario, necesito poder registrarme a la aplicación utilizando mi correo electrónico, con la finalidad de no dar permiso a la aplicación de tener accesos a mis redes sociales
+
+Yo como un organizador de un evento, necesito estadísticas del registro de visitantes con gráficas, con la finalidad de mejorar la toma de decisiones y conocer las preferencias de los usuarios de forma sencilla
+
+Yo como un usuario, necesito un aviso de confidencialidad al registrarme, con la finalidad de tener la certeza que mis datos no serán utilizados de forma maliciosa 
+
+Yo como un usuario, necesito realizar búsquedas por expositor, con la finalidad de conocer todas las ponencias a las que puedo asistir en diversos eventos y agendarlos.
+````
+
 ### Criterios de aceptación
 ### Cuarto de guerrra (War Room)
 ### Producto
@@ -25,8 +39,6 @@ Manera simplificada de documentar los requisitos y funcionalidades deseadas del 
   - Qué necesito para cumplir mis metas
  * Cuando concluye se lleva a cabo una reunión en la que se realiza una demostración
  * Termina con una **Reunión de retrospectiva**, donde se identifican mejoras de procesos y el rendimiento a medida que avanzan al siguiente sprint.
- 
-
 
 
 
