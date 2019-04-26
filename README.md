@@ -7,4 +7,8 @@ Manera simplificada de documentar los requisitos y funcionalidades deseadas del 
 * Se expresan sin tecnicismos
 * Breves, simples y fáciles de entender
 
+### Criterios de aceptación
+### Cuarto de guerrra (War Room)
+### Producto
+
 
