@@ -12,13 +12,13 @@ Manera simplificada de documentar los requisitos y funcionalidades deseadas del 
 ````
 Yo como un [Rol], necesito [Descripción de la funcionalidad], con la finalidad de [Descripción de la consecuencia]
 
-Yo como un usuario, necesito poder registrarme a la aplicación utilizando mi correo electrónico, con la finalidad de no dar permiso a la aplicación de tener accesos a mis redes sociales
+Yo como un asistente, necesito poder registrarme a la aplicación utilizando mi correo electrónico, con la finalidad de no dar permiso a la aplicación de tener accesos a mis redes sociales
 
-Yo como un organizador de un evento, necesito estadísticas del registro de visitantes con gráficas, con la finalidad de mejorar la toma de decisiones y conocer las preferencias de los usuarios de forma sencilla
+Yo como un organizador de un evento, necesito estadísticas del registro de visitantes con gráficas, con la finalidad de mejorar la toma de decisiones y conocer las preferencias de los asistentes de forma sencilla
 
-Yo como un usuario, necesito un aviso de confidencialidad al registrarme, con la finalidad de tener la certeza que mis datos no serán utilizados de forma maliciosa 
+Yo como un Responsables del CEC UNAM, necesito un aviso de confidencialidad, con la finalidad de cumplir con la legislación vigente
 
-Yo como un usuario, necesito realizar búsquedas por expositor, con la finalidad de conocer todas las ponencias a las que puedo asistir en diversos eventos y agendarlos.
+Yo como un asistente, necesito realizar búsquedas por expositor, con la finalidad de conocer todas las ponencias a las que puedo asistir en diversos eventos y agendarlos
 ````
 
 ### Criterios de aceptación
