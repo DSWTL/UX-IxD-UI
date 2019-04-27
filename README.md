@@ -1,5 +1,16 @@
 # [Módulo 2](http://dcd.tic.unam.mx/cursosadistancia/course/view.php?id=54&section=2)
 
+# Descomposición de requerimientos de negocio
+* **Épica**
+* **Capabilities**
+* **Features**
+* **Historias de usuario**
+* **[Enablers](https://www.scaledagileframework.com/enablers/)**
+  - *Exploración(exploration):* Lograr aterrizar las necesidades del cliente, enfocado al negocio. 
+  - *Infraestructura(infraestructure):* Herramientas que apoyan al equipo a entregar el producto(e.g control de versiones, servidores de aplicaciones, hardware, etc.)
+  - *Compliance(normas, reglas)(compliance):* Relacionado con la normatividad y calidad, relacionado con los criterios de éxito y las pruebas. 
+  - *Desarrollo de la arquitectura(arquitectural development):* Tecnología del producto a desarrollar, memoria, etc
+
 ## Historias de usuario
 
 Manera simplificada de documentar los requisitos y funcionalidades deseadas del usuario, desde la visión del usuario final.
