@@ -24,14 +24,18 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
 ### Criterios de aceptación
 ### Cuarto de guerrra (War Room)
 ### Producto
+### Rol: Conjunto de actividades que alguien tiene que desarrollar
+  - Los roles se pueden separar
 
 # SCRUM
 
-[SBOK Guide](https://www.scrumstudy.com/sbokguide)
+* [SBOK Guide](https://www.scrumstudy.com/sbokguide)
+* [CUERPO DE CONOCIMIENTO DE SCRUM (Guía SBOK™ 3ra Edición)](https://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-3rd-edition-spanish.pdf)
+* [La Guía Definitiva de Scrum: Las Reglas del Juego](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Spanish-European.pdf)
 
 # Sprint 
 
-* Ciclo que genera algo de valor, de *(2 o 4 | 1 a 6)* semanas de trabajo.
+* Ciclo que genera algo de valor, de *(2 a 4 | 1 a 6)* semanas de trabajo.
 * Cada Sprint comienza con una **Reunión de planificación del sprint** durante las cual se consideran las historias de usuario de alta prioridad para su inclusión en el sprint.
 * Se llevan cabo de pie, muy breves (15 min.), en las que los miembros del equipo discuten progresos diarios por lo general en la mañana o a medio día.
   - Qué voy a hacer hoy
@@ -39,7 +43,3 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
   - Qué necesito para cumplir mis metas
  * Cuando concluye se lleva a cabo una reunión en la que se realiza una demostración
  * Termina con una **Reunión de retrospectiva**, donde se identifican mejoras de procesos y el rendimiento a medida que avanzan al siguiente sprint.
-
-
-
-
