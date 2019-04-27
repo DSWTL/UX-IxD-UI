@@ -54,3 +54,22 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
   - Qué necesito para cumplir mis metas
  * Cuando concluye se lleva a cabo una reunión en la que se realiza una demostración
  * Termina con una **Reunión de retrospectiva**, donde se identifican mejoras de procesos y el rendimiento a medida que avanzan al siguiente sprint.
+
+## Reuniones de Seguimiento
+* Cardinando Daily Stand Up meetings
+* Dos actiidades principales:
+  - ¿Qué se hizo para alcanzar los objetivos de la iteración?
+  - ¿Qué se va a hacer para alcanzar esos objetivos?
+  - ¿Qué asuntos, riesgos, se encontraron?
+* Reuniones
+  - Planificación Diarias
+  - Revisión 
+  - Retrospectiva
+
+# Estimación Planning Póker
+
+Depende de la complejidad, sube la complejidad con respecto al número(fibonacci)
+* Cartas numeradas
+* 1 - Muy fácil
+* ? - "Ni idea"
+* infinito - "Esto es demasiado grande"
