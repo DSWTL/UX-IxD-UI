@@ -70,6 +70,8 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
 
 Depende de la complejidad, sube la complejidad con respecto al número(fibonacci)
 * Cartas numeradas
-* 1 - Muy fácil
-* ? - "Ni idea"
-* infinito - "Esto es demasiado grande"
+  - 1 - "Muy fácil"
+  - ? - "Ni idea"
+  - infinito - "Esto es demasiado grande"
+
+
