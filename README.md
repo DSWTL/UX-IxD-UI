@@ -58,9 +58,7 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
  # Puntos de historia
  ## Velocidad de equipo
  
- S.M   P.O    TEAM
- 
- O      O     O O O
+              S.M   P.O    TEAM(3)
  
               8 8 8 PUNTOS DE HISTORIA
               
