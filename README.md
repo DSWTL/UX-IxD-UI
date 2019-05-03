@@ -54,3 +54,20 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
   - Qué necesito para cumplir mis metas
  * Cuando concluye se lleva a cabo una reunión en la que se realiza una demostración
  * Termina con una **Reunión de retrospectiva**, donde se identifican mejoras de procesos y el rendimiento a medida que avanzan al siguiente sprint.
+ 
+ # Puntos de historia
+ ## Velocidad de equipo
+ 
+ S.M   P.O    TEAM
+ 
+ O      O     O O O
+ 
+              8 8 8 PUNTOS DE HISTORIA
+              
+                24 P.H
+                
+      |------SPRINT1----|
+      
+       ///DIA DE ASUETO, SE RESTA UN PUNTO A CADA USUARIO
+       
+        24 - 3 = 21 P.H
