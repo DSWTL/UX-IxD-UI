@@ -60,7 +60,7 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
  
               S.M   P.O    TEAM(3)
  
-              8 8 8 PUNTOS DE HISTORIA
+              8 8 8 #Se define 8 puntos por integrante del TEAM
               
                 24 P.H
                 
@@ -69,3 +69,5 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
        ///DIA DE ASUETO, SE RESTA UN PUNTO A CADA USUARIO
        
         24 - 3 = 21 P.H
+        
+        En cada SPRINT se desarrollan máximo 21 p.h
