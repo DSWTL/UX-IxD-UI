@@ -75,3 +75,24 @@ Depende de la complejidad, sube la complejidad con respecto al número(fibonacci
   - infinito - "Esto es demasiado grande"
 
 
+
+ # Puntos de historia
+ ## Velocidad de equipo
+ 
+              S.M   P.O    TEAM(3)
+ 
+              8 8 8 #Se define 8 puntos por integrante del TEAM
+              
+                24 P.H
+                
+      |------SPRINT1----|
+      
+       ///DIA DE ASUETO, SE RESTA UN PUNTO A CADA USUARIO
+       
+        24 - 3 = 21 P.H
+        
+        En cada SPRINT se desarrollan máximo 21 p.h
+<hr></hr> 
+
+# UX/UI
+
