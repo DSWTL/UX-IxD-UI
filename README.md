@@ -55,14 +55,44 @@ Yo como un asistente, necesito realizar búsquedas por expositor, con la finalid
  * Cuando concluye se lleva a cabo una reunión en la que se realiza una demostración
  * Termina con una **Reunión de retrospectiva**, donde se identifican mejoras de procesos y el rendimiento a medida que avanzan al siguiente sprint.
 
+## Reuniones de Seguimiento
+* Cardinando Daily Stand Up meetings
+* Dos actiidades principales:
+  - ¿Qué se hizo para alcanzar los objetivos de la iteración?
+  - ¿Qué se va a hacer para alcanzar esos objetivos?
+  - ¿Qué asuntos, riesgos, se encontraron?
+* Reuniones
+  - Planificación Diarias
+  - Revisión 
+  - Retrospectiva
+
+# Estimación Planning Póker
+
+Depende de la complejidad, sube la complejidad con respecto al número(fibonacci)
+* Cartas numeradas
+  - 1 - "Muy fácil"
+  - ? - "Ni idea"
+  - infinito - "Esto es demasiado grande"
 
 
-* UI(user interface)
-  - Lo que el usuario ve
-  - Producto terminado
-* UX(user experience)
-  - Flujos
-  - Análisis de funciones
-  - Arquitectura
-  - Interacción del usuario
+
+ # Puntos de historia
+ ## Velocidad de equipo
+ 
+              S.M   P.O    TEAM(3)
+ 
+              8 8 8 #Se define 8 puntos por integrante del TEAM
+              
+                24 P.H
+                
+      |------SPRINT1----|
+      
+       ///DIA DE ASUETO, SE RESTA UN PUNTO A CADA USUARIO
+       
+        24 - 3 = 21 P.H
+        
+        En cada SPRINT se desarrollan máximo 21 p.h
+<hr></hr> 
+
+# UX/UI
 
