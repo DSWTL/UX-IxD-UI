@@ -1,6 +1,6 @@
 # Modulo UX
 
-* **UX Rsesearch**: (Alejandro)
+* **UX Research**: (Alejandro)
   - Encargado de investigar si el producto es rentable
   - Si es factible la tecnología
   - Investigar mercado meta
@@ -99,8 +99,10 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 18. **Efecto Von Restorff**: Predice que cuando hay varios objetos similares presentes, es más probable que se recuerde el que difiere del resto
 19. **Efecto Zeiganik**: Las personas recuerdan las tareas incompletas o interrumpidas mejor que las tareas completadas
 
+
 # Tarea
-*
+- [x] Tarea 1
+- [ ] Tarea 2
 
 # Enlaces
 
@@ -111,6 +113,11 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 * [Ejemplo de Design System](https://polaris.shopify.com/design/colors)
 * [Awwwards](https://www.awwwards.com)
 * [Ejemplo de anomalía](https://altproductions.ca/fr/)
+* [CollectUI](http://collectui.com)
+
+# Contacto
+* **LinkedIn**: Mariel Jaime
+* **Email**: ldg.mariel.jaime@gmail.com
 
 
 
