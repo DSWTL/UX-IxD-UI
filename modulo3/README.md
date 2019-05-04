@@ -97,20 +97,20 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 16. **Efecto de posición serial**: Los usuarios tienen la prospensión de recordar mejor los principios y últimos elementos de una serie
 17. **Ley de Tesler**: Establece que para cualquier sistema existe una cierta  complejidad que no se puede reducir
 18. **Efecto Von Restorff**: Predice que cuando hay varios objetos similares presentes, es más probable que se recuerde el que difiere del resto
-19. **Efecto Zeiganik**: Las personas recuerdan las tareas incompletas o interrumpidas 
+19. **Efecto Zeiganik**: Las personas recuerdan las tareas incompletas o interrumpidas mejor que las tareas completadas
 
 # Tarea
 *
 
 # Enlaces
 
-[F8](https://www.f8.com)
-[Sady Paulson](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjA37uwmoLiAhVER60KHf3oDG0QFjABegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCtKZQ-Iz-f8R3KCaKHBChCQ&usg=AOvVaw1DkcbJcM7GkRQ80l-klZk1)
-[Película: todo es un remix]
-[Ejemplo de Design System](https://polaris.shopify.com/components/get-started)
-[Ejemplo de Design System](https://polaris.shopify.com/design/colors)
-[Awwwards](https://www.awwwards.com)
-[Ejemplo de anomalía](https://altproductions.ca/fr/)
+* [F8](https://www.f8.com)
+* [Sady Paulson](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjA37uwmoLiAhVER60KHf3oDG0QFjABegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCtKZQ-Iz-f8R3KCaKHBChCQ&usg=AOvVaw1DkcbJcM7GkRQ80l-klZk1)
+* [Película: todo es un remix]
+* [Ejemplo de Design System](https://polaris.shopify.com/components/get-started)
+* [Ejemplo de Design System](https://polaris.shopify.com/design/colors)
+* [Awwwards](https://www.awwwards.com)
+* [Ejemplo de anomalía](https://altproductions.ca/fr/)
 
 
 
