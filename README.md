@@ -92,7 +92,4 @@ Depende de la complejidad, sube la complejidad con respecto al número(fibonacci
         24 - 3 = 21 P.H
         
         En cada SPRINT se desarrollan máximo 21 p.h
-<hr></hr> 
-
-# UX/UI
 
