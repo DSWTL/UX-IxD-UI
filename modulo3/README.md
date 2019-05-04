@@ -68,10 +68,41 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 * Claridad *(Empatía con el usuario evitando conceptos complejos y aportan valor sobre tus productos y servicios)*
 * Intuititva
 * Legibilidad *(Contraste de textos con el fondo, tamaño de fuente, jerarqu&iacute;a de informaci&aacute;n)*
-* Informaci&oacute;n *(Contenido resumido)*
+* Informaci&oacute;n *(Contenido resumido, lectura amena y concisa)*
 * Persepci&oacute;n de colores
 
+# Accesibilidad
+
+     Acceso universal independientemente del software o hardware, la localización geográfica o la infraestructura de red. Blog de Arsys(2017)
+
+# Leyes UX *(19 leyes)*
+1. Efecto de usabilidad estética: Los usuarios a menudo perciben el diseño estéticamente agradable como un diseño que es más útil
+2. Umbral Doherty: La productividad se dispara cuando una computadora y sus usuarios interactúan a un ritmo(<400 milisegundos) que garantiza que ninguno de los dos tiene que esperar en el otro
+3. Ley de Fitts: El tiempo para adquirir un objetivo es una función de la distancia y el tamaño del objetivo
+4. Ley de Hick: El tiempo que toma tomar una decisión aumenta con el número y la complejidad de las opciones
+5. Ley  
+6. 
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+
+# Tarea
+*
+
+# Enlaces
+
 [F8](https://www.f8.com)
+[Sady Paulson](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjA37uwmoLiAhVER60KHf3oDG0QFjABegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCtKZQ-Iz-f8R3KCaKHBChCQ&usg=AOvVaw1DkcbJcM7GkRQ80l-klZk1)
 
 
 
