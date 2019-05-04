@@ -101,7 +101,7 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 
 
 # Tarea
-- [x] Tarea 1
+- [x] Leyes UX
 - [ ] Tarea 2
 
 # Enlaces
