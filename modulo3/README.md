@@ -260,22 +260,22 @@ investigación.
   2. **Usability Testing *(Pruebas de Usabilidad)* **
     * **Es la etapa** donde ya esta materializada la idea y nuestro objetivo es comprender la efciencia de ese producto digital
 
-* ### Técnica generativas
+* ### Técnica generativas *(partir de cero, hacer discovery)*
   - Estudio de campo
-  - Protopersonas y User Persona
-  - Un día en la vida
+  - Protopersonas (una persona que imaginas puede ocupar la aplicación, pero no existe) y User Persona (utilizar una persona para ocupar la aplicación)
+  - Un día en la vida (de la Protopersona o User Persona)
   - Experience sampling
-  - Guerrilla User Research
+  - Guerrilla User Research (Otorgar carta de privacidad a personas cercanas)
   - Encuesta
   - Focus Groups
   - Entrevistas
 
-* ### Técnica evaluativas
-  - Análisis Heurístico
-  - Assessment y Benchmark
+* ### Técnica evaluativas *(ya existe un producto digital)*
+  - Análisis Heurístico (propia y de la competencia)
+  - Assessment (evaluación interna del producto) y Benchmark (tu evaluación en relación a como lo hacen los demás)
   - Test de usabilidad
-  - Test A/B
-  - Test de los 5 segundos
+  - Test A/B (comparar flujos)
+  - Test de los 5 segundos (enfocada a la parte de UI)
   
 # Tareas
 - [x] Leyes UX
