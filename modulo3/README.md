@@ -314,6 +314,84 @@ Requerimientos funcionales del producto digital
     4. **Oportunity workshop** :¿Qué áreas del producto necesitan más mejoras desde una perspectiva de UX?
     5. **Project Brief** :¿Cuáles son los resultados esperados para este proyecto de diseño centrado en el usuario?
     6. **Strategy Workshop** :¿Cuál es la visión de su equipo para la experiencia de usuario ideal y en qué necesita centrarse para dar vida a esa experiencia única?
+ 
+  * Momento de comenzar...
+    1. El producto soluciona el problema
+    2. ¿Pagarán por el?
+    3. ¿Cuál es la razón?
+  * Conoce a tus usuarios (Ellos te dicen como lo solucionarían)
+    1. ¿Qué dicen?
+    2. ¿Qué hacen?
+    3. ¿Como te hablan del problema?
+  * Es momento de crear personas
+    - Características
+    - Objetivos
+    - Puntos de dolor
+    - Necesidades
+    - Escenarios
+    - *Dot voting
+  * Un día en la vida de…
+    - Describe nombre, edad, ocupación, donde vive, transporte y trayecto al trabajo, hora de comida, salida de trabajo, actividades en casa
+  * Empatía
+    - ¿Cómo y por qué tu usuario utiliza la tecnología?
+    - ¿Que razones tendrían para utilizar tu producto y no el de alguien más?
+    - ¿Cómo la aplicación va a solucionar problemas y ahorrar tiempo a los usuarios?
+    - ¿Que otros productos similares utilizan?
+  * Cardsorting
+    - Funcionalidades *Ideas
+    - Arquitectura de la Información
+    ![Cardsorting](https://github.com/dgtic-dam/Modulos/blob/DanJRM-updates/modulo3/img/Cardscoring.png)
+    
+* ## FASE 2 (Definir)
+
+# Visual Designer
+  
+  * ### Descripción
+    1. Son los solucionadores de problemas
+del diseño.
+    2. Desempeñan un papel clave en la defnición (estilo y voz únicos de la marca)
+    3. Comprender de UX, UI y diseño webs
+
+  * ### Herramientas
+
+  ![Herramientas Visual Designer](https://github.com/dgtic-dam/Modulos/blob/DanJRM-updates/modulo3/img/Herramientas_Visual%20Designer.png)
+
+  * # UI Designer
+  
+  * ### Descripción
+    1. Son los responsables de la apariencia y el pixel perfect.
+    2. Selección de colores, emparejamiento de fuentes.
+    3. Busca un UX estético y agradable
+
+  * ### Herramientas
+
+  ![Herramientas UI Designer](https://github.com/dgtic-dam/Modulos/blob/DanJRM-updates/modulo3/img/Herramientas_UI_Designer.png)
+
+  * # Arquitectura de la información
+
+    - Cómo se organiza el sistema, incluida las principales organizaciones, categorías y secciones
+    - Estructuras de información
+
+  ![Mapa de Sitio](https://github.com/dgtic-dam/Modulos/blob/DanJRM-updates/modulo3/img/Mapa_de_sitio.png)
+
+* ## FASE 3 (BOCETAR)
+
+* ### UX sketching
+
+  - Es una forma muy efectiva de comunicar el diseño, permite a los diseñadores probar varias ideas e iterarlas, antes de
+escoger una
+
+* ### Microwireframes
+  - Son versiones reducidas de los wireframes. Al minimizar el esfuerzo, maximizar la velocidad y disminuir la fidelidad, las microframes amplifcan los benefcios de la estructura eliminan la mayoría de las defciencias
+  
+* ### Wireframes
+  - Esquema o plano de pantalla, es una guía visual que representa el esqueleto de la pantalla o estructura visual de la interfaz
+  
+* ### Mockups
+  - Muestra como debería verse cuando se implementa, incluyendo elementos visuales como paletas de colores, fotografía, tipografía y otros elementos gráfcos
+  
+* ## FASE 4 (DECIDIR)
+  
   
 # Tareas
 - [x] Leyes UX
