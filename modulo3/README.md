@@ -210,13 +210,73 @@ Fases:
 
 # UX Strategist
 
-1. Es la intersección entre UX y negocio
-2. Es el proceso que debe empezar antes de diseñar o desarrollar *(Plan de juego)*
-3. Va más allá de un solo producto digital
+> ### "Define la visión y la misión de la solución"
 
-> "Define la visión y la misión de la solución"
+* ### Descripción
+  1. Es la intersección entre UX y negocio
+  2. Es el proceso que debe empezar antes de diseñar o desarrollar *(Plan de juego)*
+  3. Va más allá de un solo producto digital
 
+* ### Herramientas
 
+  1. **Roadmap**: Hoka de ruta que define que objetivos debemos alcanzar.
+  2. **Release plam**: Define las funcionalidades y tiempo de entrega en Eìcas o Historias de usuario y estas se agrupan en *"Releases"*
+
+# UX Manager
+
+> ### "Comprende dos dimensiones: Estratégico y Táctico"
+  
+* ### Descripción
+  1. Gestiona las actividades con UX
+  2. Define el lenguaje y estrategia
+  3. Se centra en el usuario (DCU)
+
+* ### Dimensiones
+
+  * #### Estratégico
+    1. Enfoca a planes a largo plazo
+    2. Alineación de la estrategia UX + Org 
+  * #### Táctico
+    1. Habilidades de coaching
+    2. Dirige el esfuerzo colectivo
+    
+# UX Research
+
+> ### "Este rol necesita una mirada multidisciplinar"
+  
+* ### Descripción
+  1. Se enfoca en la inv. de usuario para entender sus comportamientos, necesidades, motivaciones a través de técnicas de observación y otras metodologías
+
+* ### Mirada multidisciplinar
+
+  * #### Conocimientos antropocénctricos de
+investigación.
+  * #### Conocimientos tecnológicos
+  * #### Conocimientos de negocio
+  
+* ### Se divide en dos tipos de actividades
+  1. **User research *(Investigación con Usuarios)* **
+    * **Técnicas** que permiten la inmersión en la problematica del usuario y su contexto, permitiendo crear una oferta de valor
+  2. **Usability Testing *(Pruebas de Usabilidad)* **
+    * **Es la etapa** donde ya esta materializada la idea y nuestro objetivo es comprender la efciencia de ese producto digital
+
+* ### Técnica generativas
+  - Estudio de campo
+  - Protopersonas y User Persona
+  - Un día en la vida
+  - Experience sampling
+  - Guerrilla User Research
+  - Encuesta
+  - Focus Groups
+  - Entrevistas
+
+* ### Técnica evaluativas
+  - Análisis Heurístico
+  - Assessment y Benchmark
+  - Test de usabilidad
+  - Test A/B
+  - Test de los 5 segundos
+  
 # Tareas
 - [x] Leyes UX
 - [ ] Tarea 2
