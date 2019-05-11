@@ -190,22 +190,31 @@ Fases:
 
 1. Etapa (El par inicial)
 
-
+![Etapa 1](https://github.com/dgtic-dam/Modulos/blob/master/modulo3/img/Etapa1.png)
 
 2. Etapa (Un equipo completo)
 
+![Etapa 2](https://github.com/dgtic-dam/Modulos/blob/master/modulo3/img/Etapa2.png)
 
 3. Etapa (Una org. completa)
 
+![Etapa 3](https://github.com/dgtic-dam/Modulos/blob/master/modulo3/img/Etapa3.png)
 
 4. Etapa (Organizar la complejidad)
 
+![Etapa 4](https://github.com/dgtic-dam/Modulos/blob/master/modulo3/img/Etapa4.png)
 
 5. Etapa (Liderazgo distribuido)
 
+![Etapa 5](https://github.com/dgtic-dam/Modulos/blob/master/modulo3/img/Etapa5.png)
 
+# UX Strategist
 
+1. Es la intersección entre UX y negocio
+2. Es el proceso que debe empezar antes de diseñar o desarrollar *(Plan de juego)*
+3. Va más allá de un solo producto digital
 
+> "Define la visión y la misión de la solución"
 
 
 # Tareas
