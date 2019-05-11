@@ -277,6 +277,44 @@ investigación.
   - Test A/B (comparar flujos)
   - Test de los 5 segundos (enfocada a la parte de UI)
   
+# An&aacute;lisis Heur&iacute;stico
+
+  - 0 : No es un problema de usabilidad
+  - 1 : Problema cosm&eacute:tico (Prioridad baja)
+  - 2 : Problema menor de usabilidad (Prioridad media)
+  - 3 : Problema mayor de usabilidad (Prioridad alta)
+  - 4 : **CATÁSTROFE DE USABILIDAD ¡DEBE SER ARREGLADO ANTES DE LANZAR!**
+
+# Benchmark
+
+Comparar productos, servicios y procesos para detectar mejores prácticas y su aplicación
+
+* ### Análisis Competitivo
+
+  1. General
+  2. Arquitectura y categirías 
+  3. Funcionalidades
+  4. Usabilidad
+  5. Accesibilidad
+
+# Assessment
+
+Comparar tu propio producto. Evaluación interna
+
+# Funcional
+
+Requerimientos funcionales del producto digital
+
+* ### Métodos de Descubrimiento
+  1. **Cuestionario UX** :¿Qué sabe sobre su producto y la experiencia de usuario que pretende proporcionar y qué necesita
+saber?
+  2. **Plan de Proyecto** :¿Qué prácticas de UX emplearás para diseñar una gran experiencia de usuario?
+  3. **Tour para escuchar** :¿Cuáles son las prioridades del equipo y cuánta
+conciencia y apoyo existe para UX actualmente?
+  4. **Oportunity workshop** :¿Qué áreas del producto necesitan más mejoras desde una perspectiva de UX?
+  5. **Project Brief** :¿Cuáles son los resultados esperados para este proyecto de diseño centrado en el usuario?
+  6. **Strategy Workshop** :¿Cuál es la visión de su equipo para la experiencia de usuario ideal y en qué necesita centrarse para dar vida a esa experiencia única?
+  
 # Tareas
 - [x] Leyes UX
 - [ ] Tarea 2
