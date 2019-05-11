@@ -99,8 +99,22 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 18. **Efecto Von Restorff**: Predice que cuando hay varios objetos similares presentes, es más probable que se recuerde el que difiere del resto
 19. **Efecto Zeiganik**: Las personas recuerdan las tareas incompletas o interrumpidas mejor que las tareas completadas
 
+# Heurísticas de Nielsen
 
-# Tarea
+Jkob Nielsen *Gurú de la usabilidad*
+
+1. **Visibilidad del Estado**: El sistema siempre debería mantener informados a los usuarios de lo que está ocurriendo, a través de retroalimentación apropiada dentro de un tiempo razonable.
+2. **Relación entre sistema y mundo real**: El sistema debería hablar el lenguaje de los usuarios mediante palabras, frases y conceptos que sean familiares al usuario, más que con términos relacionados con el sistema. Seguir las convenciones del mundo real, haciendo que la información aparezca en un orden natural y lógico.
+3. **Control y libertad de usuario**: Al equivocarse el usuario necesitará una *"salida de emergencia"* claramente marcada para dejar el estado no deseado al que accedieron, sin tener que pasar por una serie de pasos. Se deben apoyar las funciones de deshacer y rehacer.
+4. **Consistencia y estándares**: Los usuarios no deberían cuestionarse si acciones, situaciones o palabras diferentes significan en realidad la misma cosa; siga las convenciones establecidas.
+5. **Prevención de errores**: Buen diseño de mensajes de error, realizar un diseño cuidadoso que prevenga la ocurrencia de problemas.
+6. **Reconocimiento antes que recuerdo**: Se deben hacer visibles los objeros, acciones y opciones. El usuario no tendría que recordar la información que se de da en una parte del proceso, para seguir adelante. Las instrucciones para el uso del sistema deben estar a la vista o ser fácilmente recuperables cuando sea necesario.
+7. **Flexibilidad y eficiencia de uso**: La resencia de aceleradores, que no son vistos por los usuario novatos, pueden ofrecer una interacción más rápida a los usuarios expertos que la que el sistema puede proveer a los usuarios de todo tipo. Se debe permitir que los usuarios adapte el sistema para usos frecuentes.
+8. **Estética y diseño minimalista**: Los diálogos no deben contener información que es irrelevante o poco usada. Cada unidad extra de información en un diálogo, compite con las unidades de información relevante y disminuye su visibilidad.
+9. **Ayudar a los usuarios a reconocer**: Diagnosticar y recuperrarse de errores: Los mensajes de error se deben entregar en un lenguaje claro y simple, indicando en forma precisa el problema y sugerir una solución constructiva al problema.
+10. **Ayuda y documentación**: Dicha información debería ser fácil de buscar, estar enfocada en las tareas del usuario, con una lista concreta de pasos a desarrollar y no ser demasiado extensa.
+
+# Tareas
 - [x] Leyes UX
 - [ ] Tarea 2
 
@@ -114,6 +128,7 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 * [Awwwards](https://www.awwwards.com)
 * [Ejemplo de anomalía](https://altproductions.ca/fr/)
 * [CollectUI](http://collectui.com)
+* [leyes de Gestalt](https://es.wikipedia.org/wiki/Leyes_de_la_Gestalt)
 
 # Contacto
 * **LinkedIn**: Mariel Jaime
