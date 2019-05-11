@@ -305,15 +305,15 @@ Comparar tu propio producto. Evaluación interna
 
 Requerimientos funcionales del producto digital
 
-* ### Métodos de Descubrimiento
-  1. **Cuestionario UX** :¿Qué sabe sobre su producto y la experiencia de usuario que pretende proporcionar y qué necesita
-saber?
-  2. **Plan de Proyecto** :¿Qué prácticas de UX emplearás para diseñar una gran experiencia de usuario?
-  3. **Tour para escuchar** :¿Cuáles son las prioridades del equipo y cuánta
-conciencia y apoyo existe para UX actualmente?
-  4. **Oportunity workshop** :¿Qué áreas del producto necesitan más mejoras desde una perspectiva de UX?
-  5. **Project Brief** :¿Cuáles son los resultados esperados para este proyecto de diseño centrado en el usuario?
-  6. **Strategy Workshop** :¿Cuál es la visión de su equipo para la experiencia de usuario ideal y en qué necesita centrarse para dar vida a esa experiencia única?
+* ## FASE 1 (Entender)
+
+  * ### Métodos de Descubrimiento
+    1. **Cuestionario UX** :¿Qué sabe sobre su producto y la experiencia de usuario que pretende proporcionar y qué necesita saber?
+    2. **Plan de Proyecto** :¿Qué prácticas de UX emplearás para diseñar una gran experiencia de usuario?
+    3. **Tour para escuchar** :¿Cuáles son las prioridades del equipo y cuánta conciencia y apoyo existe para UX actualmente?
+    4. **Oportunity workshop** :¿Qué áreas del producto necesitan más mejoras desde una perspectiva de UX?
+    5. **Project Brief** :¿Cuáles son los resultados esperados para este proyecto de diseño centrado en el usuario?
+    6. **Strategy Workshop** :¿Cuál es la visión de su equipo para la experiencia de usuario ideal y en qué necesita centrarse para dar vida a esa experiencia única?
   
 # Tareas
 - [x] Leyes UX
@@ -332,6 +332,7 @@ conciencia y apoyo existe para UX actualmente?
 * [leyes de Gestalt](https://es.wikipedia.org/wiki/Leyes_de_la_Gestalt)
 * [Eventos UX](https://www.eventbrite.com.mx/d/mexico--mexico-city/ux/)
 * [Google Ventures](https://en.wikipedia.org/wiki/GV_(company))
+* [Billetera Tpaga](https://tpaga.co/)
 
 # Contacto
 * **LinkedIn**: Mariel Jaime
