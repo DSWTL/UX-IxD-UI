@@ -184,6 +184,28 @@ Se dividen en 3 enfoques:
     5. Prototipar
     6. Validar
     
+# Diseño de la organización
+
+Fases:
+
+1. Etapa (El par inicial)
+
+
+
+2. Etapa (Un equipo completo)
+
+
+3. Etapa (Una org. completa)
+
+
+4. Etapa (Organizar la complejidad)
+
+
+5. Etapa (Liderazgo distribuido)
+
+
+
+
 
 
 # Tareas
