@@ -101,7 +101,7 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 
 # Heurísticas de Nielsen
 
-Jkob Nielsen *Gurú de la usabilidad*
+### **Jkob Nielsen** *Gurú de la usabilidad*
 
 1. **Visibilidad del Estado**: El sistema siempre debería mantener informados a los usuarios de lo que está ocurriendo, a través de retroalimentación apropiada dentro de un tiempo razonable.
 2. **Relación entre sistema y mundo real**: El sistema debería hablar el lenguaje de los usuarios mediante palabras, frases y conceptos que sean familiares al usuario, más que con términos relacionados con el sistema. Seguir las convenciones del mundo real, haciendo que la información aparezca en un orden natural y lógico.
@@ -113,6 +113,78 @@ Jkob Nielsen *Gurú de la usabilidad*
 8. **Estética y diseño minimalista**: Los diálogos no deben contener información que es irrelevante o poco usada. Cada unidad extra de información en un diálogo, compite con las unidades de información relevante y disminuye su visibilidad.
 9. **Ayudar a los usuarios a reconocer**: Diagnosticar y recuperrarse de errores: Los mensajes de error se deben entregar en un lenguaje claro y simple, indicando en forma precisa el problema y sugerir una solución constructiva al problema.
 10. **Ayuda y documentación**: Dicha información debería ser fácil de buscar, estar enfocada en las tareas del usuario, con una lista concreta de pasos a desarrollar y no ser demasiado extensa.
+
+# Design Sprint (Google Ventures)
+
+1. Entender
+2. Definir
+3. Bocetar
+4. Decidir
+5. Prototipar
+6. Validar
+
+# Roles UX
+
+Se dividen en 3 enfoques:
+* Diseño único
+
+  - ## User Research
+    1. Entender
+    2. Definir
+  - ## Visual Designer
+    3. Bocetar
+    4. Decidir
+  - ## Interaction Designer
+    4. Decidir
+    5. Prototipar
+  - ## Front-End
+    6. Validar
+
+* Diseño disciplinario
+  
+  - ## User Research
+    1. Entender
+    2. Definir
+    3. Bocetar
+    4. Decidir
+    5. Prototipar
+    6. Validar
+  - ## UI Designer
+    2. Definir 
+    3. Bocetar
+    4. Decidir
+    5. Prototipar
+  - ## Web Designer
+    3. Bocetar
+    4. Decidir
+    5. Prototipar
+    6. Validar
+    
+* Diseño multidisciplinario
+
+  - ## UX One Team
+    1. Entender
+    2. Definir
+    3. Bocetar
+    4. Decidir
+    5. Prototipar
+    
+  - ## UX Enginner
+    2. Definir
+    3. Bocetar
+    4. Decidir
+    5. Prototipar
+    6. Validar
+    
+  - ## UX Unicorn
+    1. Entender
+    2. Definir
+    3. Bocetar
+    4. Decidir
+    5. Prototipar
+    6. Validar
+    
+
 
 # Tareas
 - [x] Leyes UX
@@ -129,6 +201,8 @@ Jkob Nielsen *Gurú de la usabilidad*
 * [Ejemplo de anomalía](https://altproductions.ca/fr/)
 * [CollectUI](http://collectui.com)
 * [leyes de Gestalt](https://es.wikipedia.org/wiki/Leyes_de_la_Gestalt)
+* [Eventos UX](https://www.eventbrite.com.mx/d/mexico--mexico-city/ux/)
+* [Google Ventures](https://en.wikipedia.org/wiki/GV_(company))
 
 # Contacto
 * **LinkedIn**: Mariel Jaime
