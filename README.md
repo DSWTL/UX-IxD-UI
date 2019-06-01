@@ -30,3 +30,9 @@ Sketch app Crystal: Android
 
 Paleta de colores: https://color.adobe.com/es/create
 Iconos: https://www.flaticon.com/
+
+Densidad de pixeles en Android: https://es.stackoverflow.com/questions/24096/recursos-en-android-densidad-de-pixeles-xxdpi-xdpi-hdpi-mdpi-ldpi
+
+Descargar invision: https://www.invisionapp.com/
+
+https://invis.io/VESB3CEP5H6
