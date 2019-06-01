@@ -36,3 +36,11 @@ Densidad de pixeles en Android: https://es.stackoverflow.com/questions/24096/rec
 Descargar invision: https://www.invisionapp.com/
 
 https://invis.io/VESB3CEP5H6
+
+Zeplin(wireframe, SPECS): https://app.zeplin.io/projects
+Figma: https://www.figma.com/
+Slack: https://slack.com/intl/es-mx/
+Figma + Zeplin: https://blog.zeplin.io/zeplin-figma-integration-its-here-9d6f6e8781d3
+
+Bajar plugin chrome :Wireframe
+
