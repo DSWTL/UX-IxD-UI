@@ -23,3 +23,10 @@ Rename it https://rodi01.github.io/RenameIt/
 
 Stark https://getstark.co/
 Paddy https://sketch.fordesignrs.com/plugins/paddy
+
+
+Sketch app Mirror: IOS
+Sketch app Crystal: Android
+
+Paleta de colores: https://color.adobe.com/es/create
+Iconos: https://www.flaticon.com/
