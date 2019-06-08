@@ -18,3 +18,5 @@ Status Bar 20px
 
 Imagen de 1024 x 1024 para subir a la app store
 
+cocoa pots
+
