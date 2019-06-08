@@ -15,8 +15,11 @@ https://developer.apple.com/programs/
 ### Xcode
 
 Status Bar 20px
+Footer 40px
 
 Imagen de 1024 x 1024 para subir a la app store
 
 cocoa pots
 
+
+Líneas de conexión: Segue
