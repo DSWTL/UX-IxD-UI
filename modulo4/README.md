@@ -23,3 +23,49 @@ cocoa pots
 
 
 Líneas de conexión: Segue
+
+
+# MVC
+
+Vista: Storyboards and xib
+
+xib <== NIB
+
+xib: xml, interface, builder
+NIB: Next step builder
+
+Next Step desarrolló Objective-C
+cocoa: Sistema operativo gráfico
+
+AppDelegate: 
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    var window: UIWindow?
+
+
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // Override point for customization after application launch.
+        return true
+    }
+
+@IBAction: directiva del compilador
+
+
+# Frameworks:
+* Foundation -- NS
+* UIKit - UI
+* Core Graphics - CG
+
+Image View
+
+CGRect -- Frame: Origin(x: , y:) , Size(width:, height:)
+
+Tamaños: 320 x 568
+
+
+# Constraints
+
+Restringir el tamaño o la posición de los objetos.@
+
+
+
