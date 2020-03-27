@@ -407,6 +407,11 @@ escoger una
 * [Eventos UX](https://www.eventbrite.com.mx/d/mexico--mexico-city/ux/)
 * [Google Ventures](https://en.wikipedia.org/wiki/GV_(company))
 * [Billetera Tpaga](https://tpaga.co/)
+* https://invis.io/VESB3CEP5H6
+* Zeplin(wireframe, SPECS): https://app.zeplin.io/projects
+* Figma: https://www.figma.com/
+* Slack: https://slack.com/intl/es-mx/
+* Figma + Zeplin: https://blog.zeplin.io/zeplin-figma-integration-its-here-9d6f6e8781d3
 
 
 
