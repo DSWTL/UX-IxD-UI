@@ -1,18 +1,18 @@
 # Modulo UX
 
-* **UX Research**: (Alejandro)
+* **UX Research**:
   - Encargado de investigar si el producto es rentable
   - Si es factible la tecnología
   - Investigar mercado meta
-* **UX Content**: (Diana)
+* **UX Content**: 
   - Microcopies
   - Copies
   - Encargados de la correción de estilo
   - Redacción y ortografía
-* **UX Strategist**: (Instructora : Mariel Yunuen)
+* **UX Strategist**: 
   - Encargado de coordinar/guiar
   - Atender problemáticas
-* **UX Visual & UI**: (Daniel)
+* **UX Visual & UI**: 
   - Habilidad estética
   - Entender la funcionalidad 
   - Que convivan la estética y la funcionalidad
@@ -391,11 +391,7 @@ escoger una
   - Muestra como debería verse cuando se implementa, incluyendo elementos visuales como paletas de colores, fotografía, tipografía y otros elementos gráfcos
   
 * ## FASE 4 (DECIDIR)
-  
-  
-# Tareas
-- [x] Leyes UX
-- [ ] Tarea 2
+
 
 # Enlaces
 
@@ -412,9 +408,6 @@ escoger una
 * [Google Ventures](https://en.wikipedia.org/wiki/GV_(company))
 * [Billetera Tpaga](https://tpaga.co/)
 
-# Contacto
-* **LinkedIn**: Mariel Jaime
-* **Email**: ldg.mariel.jaime@gmail.com
 
 
 
