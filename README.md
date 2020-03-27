@@ -48,4 +48,7 @@ Bajar plugin chrome :Wireframe
 ----------------------
 # Speech elevator 3 min
 
+# Contacto
+* **LinkedIn**: Mariel Jaime
+* **Email**: ldg.mariel.jaime@gmail.com
 
