@@ -31,7 +31,7 @@ Diseñando lo *invisible*
 *¿Cómo los usuarios se sienten?*
 * Ver + Sentir + Usabilidad = UX
 
-> "Una experiencia de usuario s el **efecto general creado porlas interacciones y percepciones** que añguien tiene cuando usa un producto o servicio".
+> "Una experiencia de usuario s el **efecto general creado por las interacciones y percepciones** que añguien tiene cuando usa un producto o servicio".
 >> L Buley(2013)
 
 # Factores que generan un buen UX
