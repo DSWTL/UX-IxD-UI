@@ -317,7 +317,7 @@ Requerimientos funcionales del producto digital
  
   * Momento de comenzar...
     1. El producto soluciona el problema
-    2. ¿Pagarán por el?
+    2. ¿Pagarán por él?
     3. ¿Cuál es la razón?
   * Conoce a tus usuarios (Ellos te dicen como lo solucionarían)
     1. ¿Qué dicen?
@@ -397,7 +397,6 @@ escoger una
 
 * [F8](https://www.f8.com)
 * [Sady Paulson](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjA37uwmoLiAhVER60KHf3oDG0QFjABegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCtKZQ-Iz-f8R3KCaKHBChCQ&usg=AOvVaw1DkcbJcM7GkRQ80l-klZk1)
-* [Película: todo es un remix]
 * [Ejemplo de Design System](https://polaris.shopify.com/components/get-started)
 * [Ejemplo de Design System](https://polaris.shopify.com/design/colors)
 * [Awwwards](https://www.awwwards.com)
@@ -406,7 +405,6 @@ escoger una
 * [leyes de Gestalt](https://es.wikipedia.org/wiki/Leyes_de_la_Gestalt)
 * [Eventos UX](https://www.eventbrite.com.mx/d/mexico--mexico-city/ux/)
 * [Google Ventures](https://en.wikipedia.org/wiki/GV_(company))
-* [Billetera Tpaga](https://tpaga.co/)
 * https://invis.io/VESB3CEP5H6
 * Zeplin(wireframe, SPECS): https://app.zeplin.io/projects
 * Figma: https://www.figma.com/
