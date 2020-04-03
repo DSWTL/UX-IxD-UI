@@ -219,8 +219,8 @@ Fases:
 
 * ### Herramientas
 
-  1. **Roadmap**: Hoka de ruta que define que objetivos debemos alcanzar.
-  2. **Release plam**: Define las funcionalidades y tiempo de entrega en Eìcas o Historias de usuario y estas se agrupan en *"Releases"*
+  1. **Roadmap**: Hoja de ruta que define que objetivos debemos alcanzar.
+  2. **Release plan**: Define las funcionalidades y tiempo de entrega en Eìcas o Historias de usuario y estas se agrupan en *"Releases"*
 
 # UX Manager
 
