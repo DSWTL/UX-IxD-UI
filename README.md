@@ -402,6 +402,7 @@ escoger una
 * [Awwwards](https://www.awwwards.com)
 * [Ejemplo de anomalía](https://altproductions.ca/fr/)
 * [CollectUI](http://collectui.com)
+* [24a11y]https://www.24a11y.com/
 * [leyes de Gestalt](https://es.wikipedia.org/wiki/Leyes_de_la_Gestalt)
 * [Eventos UX](https://www.eventbrite.com.mx/d/mexico--mexico-city/ux/)
 * [Google Ventures](https://en.wikipedia.org/wiki/GV_(company))
