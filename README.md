@@ -114,6 +114,8 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 9. **Ayudar a los usuarios a reconocer**: Diagnosticar y recuperrarse de errores: Los mensajes de error se deben entregar en un lenguaje claro y simple, indicando en forma precisa el problema y sugerir una solución constructiva al problema.
 10. **Ayuda y documentación**: Dicha información debería ser fácil de buscar, estar enfocada en las tareas del usuario, con una lista concreta de pasos a desarrollar y no ser demasiado extensa.
 
+![Usabilidad Heurística](https://miro.medium.com/max/1400/1*HIXdhgrSvTOGtYvX_Ng-OA.jpeg)
+
 # Design Sprint (Google Ventures)
 
 1. Entender
