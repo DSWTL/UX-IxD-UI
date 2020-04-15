@@ -71,7 +71,7 @@ Lo que te permite alcanzar tus objetivos con un mínimo esfuerzo.
 * Intuititva
 * Legibilidad *(Contraste de textos con el fondo, tamaño de fuente, jerarqu&iacute;a de informaci&aacute;n)*
 * Informaci&oacute;n *(Contenido resumido, lectura amena y concisa)*
-* Persepci&oacute;n de colores
+* Percepci&oacute;n de colores
 
 # Accesibilidad
 
